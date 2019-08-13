@@ -1,0 +1,18 @@
+
+<resources>
+    <string name="app_name">My Fragment Example</string>
+
+    <string name="title1">Rick and Morty</string>
+    <string name="article1">Rick and Morty is an American adult animated science fiction sitcom created by Justin Roiland and Dan Harmon for Cartoon Networks late-night programming block Adult Swim. The series follows the misadventures of cynical mad scientist Rick Sanchez and his good-hearted but fretful grandson Morty Smith, who split their time between domestic life and interdimensional adventures.</string>
+
+
+    <!-- Text for the fragment. -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="yes_message">Enjoy :)</string>
+    <string name="no_message">Sorry :(</string>
+    <string name="question_article">Do you like the article?</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+</resources>

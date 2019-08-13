@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="standard_margin">30dp</dimen>
+    <dimen name="image_left_margin">32dp</dimen>
+    <dimen name="body_top_margin">96dp</dimen>
+    <dimen name="margin_wide">16dp</dimen>
+    <dimen name="image_width">70dp</dimen>
+    <dimen name="image_height">70dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+
+</resources>
