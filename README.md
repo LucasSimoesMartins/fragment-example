@@ -1,9 +1,11 @@
 # My Fragment Example
 
 Fragment closed / Fragment opened
+
 <img src="https://user-images.githubusercontent.com/25203907/65074815-f3694000-d96b-11e9-99c3-cc2e79bb34af.png" width="500" />
 
 Portrait / Landscape
+
 <img src="https://user-images.githubusercontent.com/25203907/65074881-198ee000-d96c-11e9-9c5c-87d8898ca8bc.png" width="500" />
 
 ## About this project
