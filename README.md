@@ -6,7 +6,7 @@ Fragment closed / Fragment opened
 
 Portrait / Landscape
 
-<img src="https://user-images.githubusercontent.com/25203907/65074881-198ee000-d96c-11e9-9c5c-87d8898ca8bc.png" width="500" />
+<img src="https://user-images.githubusercontent.com/25203907/65074881-198ee000-d96c-11e9-9c5c-87d8898ca8bc.png" width="700" />
 
 ## About this project
 It is a simple fragment example based on Advanced Android Training Fragments Codelab with my modifications.
